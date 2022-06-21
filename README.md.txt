@@ -1,0 +1,1 @@
+The IPYNB file contains code for predicting performace of sudents based on the no of study hours.
